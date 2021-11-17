@@ -9,7 +9,7 @@
     "dev": "gulp dev",
     "build": "gulp build"
   },
-  "author": "Aleksey Drozdov <leshadrozdov@gmail.com>",
+  "author": "Anastasiya Zaitsava <5583598@mail.ru>",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.5",
